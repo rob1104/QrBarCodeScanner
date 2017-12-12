@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QR Barcode Scanner Pro</string>
+
+    <string name="view_history">View History</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="visit">Visit</string>
+    <string name="copy">Copy</string>
+    <string name="copy_message">Result copied to Clipboard!!!!</string>
+    <string name="permission_granted">Permission Granted!!!</string>
+    <string name="permission_already_granted">Permission Already Granted!!!</string>
+    <string name="permission_denied">Permission Denied!!!</string>
+    <string name="permission_message">You need to allow access for both permissions</string>
+
+</resources>
